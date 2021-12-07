@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RyanGuerriero
+- 👀 I’m interested in programming, hiking/camping, cooking/baking 
+- 🌱 I’m currently learning Computer Programming & Analytics
+- 📫 How to reach me: <a href="mailto:ryan.guerriero@student.sl.on.ca">Send an Email!</a>
